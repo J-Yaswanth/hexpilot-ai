@@ -1,0 +1,12 @@
+opencv-python
+numpy
+pandas
+streamlit
+fastapi
+uvicorn
+python-multipart
+ultralytics
+imageio-ffmpeg
+torch
+torchvision
+deep-sort-realtime

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+data/outputs/
+.env
+.streamlit/secrets.toml
+weights/clip/
+yolo11n.pt
+yolov8s-world.pt

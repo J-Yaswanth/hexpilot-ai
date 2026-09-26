@@ -1,0 +1,65 @@
+{
+  "accuracy": 1.0,
+  "precision_macro": 0.3333333333333333,
+  "recall_macro": 0.3333333333333333,
+  "f1_macro": 0.3333333333333333,
+  "class_metrics": {
+    "dramatic": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "fight": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "indoor": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "other": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1
+    },
+    "outdoor": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "travel": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1
+    }
+  },
+  "test_scene_count": 2,
+  "labeled_scene_count": 17,
+  "class_names": [
+    "dramatic",
+    "fight",
+    "indoor",
+    "other",
+    "outdoor",
+    "travel"
+  ],
+  "validation_best_macro_f1": 0.3333333333333333,
+  "experimental_mode": true,
+  "test_class_counts": {
+    "dramatic": 0,
+    "fight": 0,
+    "indoor": 0,
+    "other": 1,
+    "outdoor": 0,
+    "travel": 1
+  },
+  "note": "Experimental held-out source-video evaluation; class coverage in validation/test may be incomplete."
+}

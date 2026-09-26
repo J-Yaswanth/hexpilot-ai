@@ -1,0 +1,7 @@
+actual_label,predicted_dramatic,predicted_fight,predicted_indoor,predicted_other,predicted_outdoor,predicted_travel
+dramatic,0,0,0,0,0,0
+fight,0,0,0,0,0,0
+indoor,0,0,0,0,0,0
+other,0,0,0,1,0,0
+outdoor,0,0,0,0,0,0
+travel,0,0,0,0,0,1
